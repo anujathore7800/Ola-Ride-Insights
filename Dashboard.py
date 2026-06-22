@@ -28,7 +28,7 @@ page = st.sidebar.radio("Go To", [
 
 # ------------------------- Home -------------------------
 if page == "Home":
-    st.image("D:/Downloads/OLA.webp")
+    st.image("Pictures/OLA.webp")
     st.header("A Streamlit App for Ola Ride Insights")
     st.write("""
              Ola Ride Insights is an interactive data analytics dashboard built using Streamlit 
